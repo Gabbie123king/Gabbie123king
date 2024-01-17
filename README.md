@@ -1,5 +1,3 @@
-[![MasterHead](https://imgvisuals.com/cdn/shop/products/animated-developer-flat-character-708605.gif?v=1697071114)]
-
 
 <h1 align="center">Hi 👋, I'm Gabriel M'bwana</h1>
 <h3 align="center">Designing and Implementing Scalable Software Solutions</h3>
