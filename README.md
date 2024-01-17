@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Gabriel M'bwana 👑</h1>
+<h1 align="center">Hi 👋, I'm Gabriel M'bwana 👑💎</h1>
 <h3 align="center">Designing and Implementing Scalable Software Solutions</h3>
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg&ga=GA1.1.632798143.1705363200&semt=ais">
