@@ -8,13 +8,13 @@
 </p>
 
 - 🚀 Backend Engineer focused on building reliable and scalable systems  
-- 🌱 Currently deepening skills in **Django, APIs, and system design**  
-- 💬 Ask me about **Python, Django, Node.js, REST APIs, databases**  
+- 🌱 Currently deepening skills in **Microservices, APIs, and system design**  
+- 💬 Ask me about **Python, C#, Django, Node.js, REST APIs, databases**  
 - 📫 Reach me at **gabrielmbwana900@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gabriel-mbwana" target="blank">
+<a href="https://www.linkedin.com/in/gabriel-m-bwana-0052491b9" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
